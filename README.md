@@ -1,2 +1,6 @@
 # MontclairCSIT231
 ComputerSystems_ElectiveCSIT231
+
+I don't know how much coding will be put into this probably just my projects... 
+- MultiThread Project I want to refactor to have the logic be drawn and rendered into a WinForms App...
+      - Its a project for Sphere Estimation using the MonteCarlo method with v1 having Linux and Win32 compatibility. 
